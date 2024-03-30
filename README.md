@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Abdulbari Soliman**
 - 👀 I’m interested in **data analytics** and **machine learning** in the *business and financial* sector also **open** for any other areas  
-- 🌱 I’m currently learning *Python, Solidity, Java, and more on the way* 
+- 🌱 I’m currently learning *Python, and more on the way* 
 - 💞️ I’m looking to collaborate on any project,
 - 📫 reach me on <a href="mailto:Solimanabdulbari@gmail.com">Email Here</a></li>
